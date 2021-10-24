@@ -9,3 +9,4 @@
 9. Remove_3rd_element
 10. rotating_list
 11. Sum of Cube
+12. Bank ATM Menu
