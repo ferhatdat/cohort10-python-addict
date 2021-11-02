@@ -10,3 +10,5 @@
 10. rotating_list
 11. Sum of Cube
 12. Bank ATM Menu
+13.Anagram
+14.Trapped Water
